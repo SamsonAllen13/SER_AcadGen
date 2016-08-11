@@ -1,0 +1,12 @@
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\bin\Debug\SER.AcadGen.exe.config
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\obj\Debug\SER.AcadGen.vbprojResolveAssemblyReference.cache
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\obj\Debug\SER.AcadGen.Form1.resources
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\obj\Debug\SER.AcadGen.Resources.resources
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\obj\Debug\SER.AcadGen.vbproj.GenerateResource.Cache
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\obj\Debug\SER.AcadGen.xml
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\bin\Debug\SER.AcadGen.exe
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\bin\Debug\SER.AcadGen.pdb
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\bin\Debug\SER.AcadGen.xml
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\obj\Debug\SER.AcadGen.exe
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\obj\Debug\SER.AcadGen.pdb
+C:\SER.AcadGen\SER.AcadGen\SER.AcadGen\bin\Debug\SER_AcadGen.exe.config
