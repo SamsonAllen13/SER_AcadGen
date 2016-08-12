@@ -1,1 +1,2 @@
-A document I added ot the project
+A document I added to the project
+Another line of text
